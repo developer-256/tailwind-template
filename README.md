@@ -5,7 +5,6 @@
 3. Run `npm run dev`
 4. Install VS Code extention **Live Server**
 5. Right click **index.html** and click *Open with live server*
-<br/>
 
 ### Happy Coding
 
